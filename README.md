@@ -16,22 +16,22 @@ All roles are surfaced through **[Hirebase](https://www.hirebase.org/)**, which 
 
 ### 🧰 Tech Stack Pulse (Last ~14 Days, 0–2 YOE SWE Slice)
 
-Based on ~500 recent SWE‑ish roles filtered to 0–2 years of experience (433 early‑career SWE out of 500 total jobs in this slice):
+Based on ~500 recent SWE‑ish roles filtered to 0–2 years of experience in this run:
 
 | 🔧 Tech | How Often It Shows Up* |
 | --- | --- |
-| Python | ████████████ ░░ (~191 mentions) |
-| Java | ██████████ ░░░ (~165) |
-| C++ | ██████ ░░░░░ (~86) |
-| JavaScript | █████ ░░░░░ (~79) |
-| Git | ████ ░░░░░░ (~63) |
-| AWS | ████ ░░░░░░ (~61) |
-| React | ████ ░░░░░░ (~59) |
-| Docker | ████ ░░░░░░ (~59) |
-| Kubernetes | ████ ░░░░░░ (~59) |
-| C# | ████ ░░░░░░ (~57) |
-| SQL | ███ ░░░░░░░ (~45) |
-| Azure | ███ ░░░░░░░ (~41) |
+| Python | ████████████ ░░ (~190+ mentions) |
+| Java | ██████████ ░░░ (~160+) |
+| JavaScript | ██████ ░░░░░ (~90) |
+| C++ | █████ ░░░░░░ (~80) |
+| Git | ████ ░░░░░░ (~60) |
+| AWS | ████ ░░░░░░ (~60) |
+| React | ████ ░░░░░░ (~55) |
+| Docker | ████ ░░░░░░ (~55) |
+| Kubernetes | ████ ░░░░░░ (~50) |
+| C# | ████ ░░░░░░ (~50) |
+| SQL | ███ ░░░░░░░ (~40) |
+| Azure | ███ ░░░░░░░ (~35) |
 
 \*Roughly: Python and Java are still out in front, with C++/JavaScript/React/Docker/Kubernetes showing up as the default “modern product + cloud” stack.
 
@@ -51,11 +51,11 @@ Where salary ranges are actually listed in this 14‑day slice, you see clusters
 
 | 🌍 Region | Typical Listed Range* |
 | --- | --- |
-| US (major hubs) | **~$120,000–$180,000+** total comp bands show up a lot (average in this slice is around **$128k**) |
-| Canada | **roughly CA$110,000–$150,000** at the upper end for big‑name employers (slice average ~CA$118k) |
-| Remote‑labeled roles | **often in the $110,000–$170,000+ band**, with big variance by company (slice average ~**$132k**) |
+| US (major hubs) | **~$120,000–$180,000+** total comp bands show up a lot (average in this slice is around **$125k–$135k**) |
+| Canada | **roughly CA$90,000–$140,000** at the upper end for big‑name employers (slice average ~CA$115k) |
+| Remote‑labeled roles | **often in the $110,000–$175,000+ band**, with big variance by company (slice average around **$130k**) |
 | Europe | **~€35,000–€70,000 equivalent**, with this slice averaging around **€50k** |
-| Other / mixed regions | **~$35,000–$110,000 equivalent**, depending heavily on country and currency (slice average just over **$112k**) |
+| Other / mixed regions | **~$35,000–$110,000 equivalent**, depending heavily on country and currency (slice average just over **$110k**) |
 
 > \*These are aggregates of listed bands, not offers. Treat them as “comfortable ballparks”, not promises.
 
@@ -89,72 +89,79 @@ Five roles that look especially strong across **mentorship, impact, clarity of l
 
 ---
 
-### 1. TikTok – Software Engineer Intern (Search Client) 💼🎓💻🧪
-
-- **Location:** San Jose, California, United States (🏙️)
-- **Stack:** AngularJS, React, Vue, JavaScript, HTML, CSS
-- **Comp (listed):** ~US$90,000 (annualized)
-- **Why it stands out:** A front‑row seat on **search + content discovery** for one of the highest‑traffic consumer apps on the planet. You get to work on real‑time, user‑facing features in a stack that’s basically the playbook for modern front‑end engineering at scale.
-- **Apply:** [Apply](https://www.hirebase.org/company/tiktok/jobs/software-engineer-intern-tiktok-search-client-2026-summer-bs-ms-eea42630)
-
----
-
-### 2. Coinbase – Software Engineer 💼🎓💻⚙️🌍
+### 1. Coinbase – Software Engineer 💼🎓💻⚙️🌍
 
 - **Location:** Remote – USA (🌍)
 - **Stack:** Go, Ruby/Rails, React Native, Docker, AWS, MongoDB, Postgres
 - **Comp (listed):** ~US$128,775–$151,500
-- **Why it stands out:** A true **new‑grad‑friendly full‑time seat** on a production crypto platform. You get strong exposure to distributed systems, security, and financial infrastructure without giving up modern product tooling.
+- **Why it stands out:** A true **new‑grad‑friendly full‑time seat** on a production crypto platform. You get strong exposure to distributed systems, security, and financial infrastructure while still writing product‑driven features that ship to real users.
 - **Apply:** [Apply](https://www.hirebase.org/company/coinbase/jobs/software-engineer-5686082d)
 
 ---
 
-### 3. Monarch Money – Software Engineering Intern (Summer 2026) 💼🎓💻🌍
+### 2. PayPal – Software Engineer (Python, Venmo Identity) 💼🎓💻⚙️🏙️
 
-- **Location:** Remote (US) (🌍)
-- **Stack:** Django, Go, Python, React, React Native, TypeScript, Git, modern AI‑assisted tooling (Claude Code, Cursor)
-- **Comp (listed):** Not listed; early‑stage fintech comp, plus strong learning upside
-- **Why it stands out:** A small, focused **personal finance** product where engineers are very close to customers. You get to work across the stack and see how modern AI‑assisted workflows actually show up in day‑to‑day development.
-- **Apply:** [Apply](https://www.hirebase.org/company/monarch-money/jobs/software-engineering-intern-summer-2026-cc54c893)
-
----
-
-### 4. General Motors – Software Engineer, Chassis Controls 💼🎓⚙️🌍
-
-- **Location:** Remote – Canada (🌍)
-- **Stack:** C, Python, Matlab/Simulink, test automation frameworks (Robot Framework, Gherkin), GitHub, Jenkins
-- **Comp (listed):** ~CA$90,900–$136,400
-- **Why it stands out:** You’re working at the intersection of **embedded systems, safety, and vehicles**, but in a role that’s still accessible to early‑career engineers. Perfect if you like the idea of your code influencing how real cars behave, not just how a web page renders.
-- **Apply:** [Apply](https://www.hirebase.org/company/general-motors/jobs/software-engineer-chassis-controls-f723cc42)
+- **Location:** San Jose, California, United States (🏙️ hybrid)
+- **Stack:** Python, Django/Flask, REST APIs, SOA, relational + NoSQL databases, Git
+- **Comp (listed):** ~US$116,500–$173,250
+- **Why it stands out:** You’re building **authentication and identity systems** that millions of people touch every day. It’s an ideal environment to learn how to design secure, resilient services and see how modern fintech platforms are actually glued together.
+- **Apply:** [Apply](https://www.hirebase.org/company/paypal/jobs/software-engineer-python-7f30394b)
 
 ---
 
-### 5. Hexagon – Junior Software Developer, Manufacturing 3D Team 💼🎓⚙️
+### 3. Ford – Software Engineer, Ford Pro Tech 💼🎓💻⚙️🌍
 
-- **Location:** Ghent, Belgium (🏙️)
-- **Stack:** C++, Qt/QML, CMake, Git
-- **Comp (listed):** Not listed; European junior bands, plus strong mentorship
-- **Why it stands out:** If you’re more into **3D, tooling, and simulation** than pure web, this is a great fit. You’ll work on the software that underpins advanced manufacturing and 3D workflows, with a stack that’s unusually deep for a junior role.
-- **Apply:** [Apply](https://www.hirebase.org/company/hexagon/jobs/junior-software-developer-manufacturing-3d-team-4b74bb14)
+- **Location:** United States (🌍 remote‑friendly)
+- **Stack:** Cloud‑native services, test‑driven development (TDD), modern CI/CD, enterprise dev tooling
+- **Comp (listed):** Not explicitly listed in the source, but bands are competitive for US SWE roles at large automakers
+- **Why it stands out:** This is **connected vehicles meets cloud software**. You get to work on real production services in a space where reliability, safety, and telemetry actually matter – all with expectations calibrated to early‑career engineers.
+- **Apply:** [Apply](https://www.hirebase.org/company/ford/jobs/software-engineer-ford-pro-tech-fbef38f2)
+
+---
+
+### 4. Nokia – C++ Software Engineer (5G R&D) 💼🎓⚙️🏙️
+
+- **Location:** Romania (🏙️ hybrid)
+- **Stack:** Modern C++, telecom/5G systems, agile development
+- **Comp (listed):** Not listed; typical junior European SWE band with strong benefits
+- **Why it stands out:** If you like **systems work and networking**, this puts you inside Nokia’s 5G R&D teams, building software that runs on base stations instead of just browsers. Great fit if you want to grow into performance‑ and infra‑oriented roles.
+- **Apply:** [Apply](https://www.hirebase.org/company/nokia-global/jobs/c-software-engineer-2769e8a8)
+
+---
+
+### 5. Stadium – Software Engineer (Fresher, 2026/2027 Batch) 💼🎓💻🌍
+
+- **Location:** Multiple locations in India (remote‑first after training) (🌍)
+- **Stack:** Ruby on Rails, Python, Go, JavaScript, Node.js, modern web tooling
+- **Comp (listed):** Competitive salary for fresher roles in India, plus strong training support
+- **Why it stands out:** A genuinely **structured fresher program** where you work on globally used products with senior engineers, instead of being sidelined. Perfect if you’re graduating in 2026/2027 and want a place that leans into teaching you how to ship real features.
+- **Apply:** [Apply](https://www.hirebase.org/company/stadium/jobs/software-engineer-fresher-graduating-batch-2026-or-2027-1c135e47)
 
 ---
 
 ## 🔦 Weekly Spotlight
 
-### "Internships that actually look like real jobs"
+### “Early‑Career Roles that Behave Like Real SWE Jobs”
 
-This week’s slice is packed with internships and junior roles that **don’t feel like side quests**. Instead of “here’s a one‑off script, good luck”, you’re seeing:
+The last couple of weeks have been packed with **entry‑level roles that don’t feel like side quests**. Instead of “come write a few scripts in the corner,” you’re seeing new‑grad and junior postings plugged directly into:
 
-- Intern titles that sit directly on top of real product teams (search, payments, cloud infra, simulation).
-- Early‑career roles plugged into stacks that look suspiciously like what senior engineers are using: Kubernetes, Terraform, real observability, and serious data pipelines.
+- Identity and security layers at **fintech scale** (PayPal / Venmo, Coinbase).
+- Cloud‑native services behind commercial fleets and logistics at **Ford Pro**.
+- 5G base‑station software at **Nokia**, where C++ actually has to perform.
+- Remote‑first product teams at **Stadium**, where fresher engineers own real modules.
 
-A couple of practical takeaways if you’re aiming at this tier of internship/new‑grad work:
+A few concrete patterns worth adjusting to:
 
-- Treat your internship applications like you’re applying to a **real SWE job**, because that’s increasingly what they are. Show that you can ship, test, and debug code in an environment with more than one service.
-- Small signals go a long way: a repo with a **clean README, basic CI, and a short design note** often stands out more than a giant but messy codebase.
-- Don’t be scared off by big brand names if the leveling still says *intern*, *associate*, or *junior*. The responsibilities are still scoped for early‑career engineers, and the mentorship is often better.
+- Even for new grads, **production expectations are real**. Most of these roles expect you to be comfortable with version control, code reviews, basic testing, and at least one cloud platform.
+- The “good” early‑career jobs are usually **deeply attached to a real product surface area**: payments, identity, vehicles, telecom, productivity. When you read a posting, look for a clear sense of *who* you’re building for and *what* breaks if your code is wrong.
+- You don’t have to be a specialist yet, but it helps to have **one or two “spikes”**: e.g. Python + data pipelines, C++ + systems, or React + product UX. These spikes line up well with what hiring managers are asking for, even in junior postings.
 
-If you can point to two or three projects that feel like “mini versions” of the systems in these listings, you’re much closer than you think.
+If your current portfolio doesn’t look like these environments yet, aim for **two projects** over the next few months:
+
+1. A small service with real auth, tests, and a bit of observability (logging/metrics).
+2. A front‑end or CLI surface that forces you to think about UX and error handling.
+
+If you can talk confidently about those two things, you’ll feel much more at home in interviews for roles like the ones above.
 
 ---
 
@@ -162,187 +169,72 @@ If you can point to two or three projects that feel like “mini versions” of 
 
 A curated set from the same 0–2 YOE, 14‑day slice. These aren’t exhaustive – they’re “this is actually worth opening in a tab and reading properly.”
 
-- **Cleobella – Software Engineering Internship** 💼🎓💻🌍  
-  **Location:** Telecommute; San Diego, CA, United States (🌍‑friendly)  
-  **Stack:** Java, JavaScript, Python  
-  **Comp (listed):** ~US$50,000–$60,000  
-  **Why it’s interesting:** Classic **generalist engineering internship** with a simple, readable stack. Great if you’re still building confidence and want to spend your time on fundamentals rather than obscure tools.  
-  - [Apply](https://www.hirebase.org/company/cleobella/jobs/software-engineering-internship-26238862)
+- **TikTok – Software Engineer Intern (Growth – Customer Lifecycle) 💼🎓💻🧪**  
+  **Location:** San Jose, CA, United States (🏙️ hybrid)  
+  **Stack:** Node.js, React, TypeScript, HTML/CSS, Go, mobile platforms  
+  **Why it’s interesting:** A rare **growth‑focused** internship where you’re working on experiments, metrics, and user journeys for a product with ridiculous scale. Great if you like product iteration and data‑driven decision making.  
+  - [Apply](https://www.hirebase.org/company/tiktok/jobs/software-engineer-intern-tiktok-growth-customer-lifecycle-2026-summer-bs-ms-e8eed1da)
 
-- **LAIKA Studios – Software Developer Intern** 💼🎓⚙️  
-  **Location:** Hillsboro, OR, United States (🏙️)  
-  **Stack:** C++, Python, Node.js  
-  **Comp (listed):** ~US$40,000 (annualized)  
-  **Why it’s interesting:** If you’re drawn to **animation, tooling, and pipelines**, this gets you close to the engineering that supports high‑end film production, not just another CRUD app.  
-  - [Apply](https://www.hirebase.org/company/laika-studios/jobs/software-developer-intern-dd21717a)
+- **PayPal – Software Engineer (Python, Venmo Identity – alternate listing) 💼🎓💻⚙️🏙️**  
+  **Location:** San Jose, CA, United States (🏙️ hybrid)  
+  **Stack:** Python, Django/Flask, REST APIs, OAuth2, identity/authorization  
+  **Why it’s interesting:** Same team, different posting – the work sits at the heart of **identity and trust** for Venmo, which is an unusually high‑leverage place to start a backend career.  
+  - [Apply](https://www.hirebase.org/company/paypal/jobs/software-engineer-python-c864a12f)
 
-- **Elsevier – Software Engineer Intern (Compass)** 💼🎓💻📊  
-  **Location:** Multi‑state US (PA, MA, FL, GA, NC, NY) (🏙️)  
-  **Stack:** Java, JavaScript/TypeScript, React, Spring Boot, PostgreSQL, AWS, Cypress, SQL  
-  **Comp (listed):** ~US$56,000–$60,000  
-  **Why it’s interesting:** A very **production‑like internship** with testing, observability, and cloud infra all in the mix. Great training ground for enterprise‑scale web apps.  
-  - [Apply](https://www.hirebase.org/company/elsevier/jobs/software-engineer-intern-compass-f7c1f756)
+- **Lloyds Banking Group – Software Engineer (Loans & Affordability Platform) 💼🎓💻⚙️🏙️**  
+  **Location:** Chester & Manchester, United Kingdom (🏙️ hybrid)  
+  **Stack:** Java (17/21), Spring Boot, REST APIs, cloud (IBM / GCP / Azure / AWS), Kubernetes, OpenShift, Git, CI/CD  
+  **Comp (listed):** ~£48,987–£73,481  
+  **Why it’s interesting:** A clearly scoped junior role in a **regulated, high‑volume environment**. You’ll learn how to build and operate services that real people rely on for credit decisions, with proper SDLC and observability baked in.  
+  - [Apply](https://www.hirebase.org/company/lloyds-banking-group/jobs/software-engineer-72a9dc80)
 
-- **Seattle Kraken – Software Engineer Intern** 💼🎓💻🧪  
-  **Location:** Seattle, WA, United States (🏙️)  
-  **Stack:** JavaScript/TypeScript, Kotlin, React Native, Swift  
-  **Comp (listed):** ~US$45,000 (annualized)  
-  **Why it’s interesting:** Sports + mobile + modern front‑end. Perfect if you like the idea of shipping features that fans actually touch on their phones.  
-  - [Apply](https://www.hirebase.org/company/seattle-kraken/jobs/software-engineer-intern-june-april-18e330fe)
+- **Oracle NetSuite – Software Engineer (Fresh Graduate) 💼🎓💻🏙️**  
+  **Location:** Brno, Czechia (🏙️ hybrid)  
+  **Stack:** JavaScript/ECMAScript, TypeScript, React, HTML/CSS, Java/C#/Python/Kotlin, SQL, Git, Agile  
+  **Why it’s interesting:** A structured **rotational‑style environment** for fresh grads inside NetSuite, with exposure to both front‑end and back‑end work across a large SaaS product. Great if you want breadth early on.  
+  - [Apply](https://www.hirebase.org/company/oracle/jobs/software-engineer-fresh-graduate-d50e0c65)
 
-- **OpenAI – Software Engineer Systems Research Internship, Applied Emerging Talent** 💼🎓⚙️📊  
-  **Location:** San Francisco, CA, United States (🏙️)  
-  **Stack:** Systems‑heavy: C/C++, Rust, Python, distributed systems, compilers, databases, information retrieval, security & cryptography  
-  **Comp (listed):** Not listed; extremely competitive for the right background  
-  **Why it’s interesting:** If you’ve already pushed into **systems + ML** projects, this is about as frontier‑adjacent as internships get.  
-  - [Apply](https://www.hirebase.org/company/openai/jobs/software-engineer-systems-research-internship-applied-emerging-talent-summer-2026-2ce9a869)
+- **GBG – Software Engineer C#/.NET (Documents & Biometrics) 💼🎓💻⚙️🏙️**  
+  **Location:** Mexico City, Mexico (🏙️ hybrid)  
+  **Stack:** C#, .NET Core, REST APIs, AWS, Docker, relational + NoSQL databases, CI/CD, xUnit/NUnit/MSTest  
+  **Why it’s interesting:** Identity, biometrics, and fraud‑adjacent work in a stack that looks like **modern .NET on AWS**. Strong option if you want to grow into platform or security‑flavored engineering.  
+  - [Apply](https://www.hirebase.org/company/gbg/jobs/software-engineer-c-net-3969-97201a48)
 
-- **Texas Capital – Associate Software Engineer** 💼🎓💻  
-  **Location:** Richardson, TX, United States (🏙️)  
-  **Stack:** Java, C#, JavaScript, Python, SQL, HTML/CSS  
-  **Comp (listed):** Not listed; full‑time early‑career band  
-  **Why it’s interesting:** A clean **Associate SWE** role in fintech with a very approachable stack and lots of runway for growing into mid‑level.  
-  - [Apply](https://www.hirebase.org/company/texas-capital/jobs/associate-software-engineer-40e1b36d)
+- **Corelation – Software Documentation Engineer 💼🎓💻🏙️**  
+  **Location:** San Diego, CA, United States (🏙️ remote‑friendly)  
+  **Stack:** C++, Java, C#, JavaScript, SQL, XML; heavy collaboration with dev teams  
+  **Why it’s interesting:** A hybrid between **SWE and internal tooling/documentation**. If you like understanding systems deeply and explaining them clearly, this is a way to stay in engineering while flexing those skills.  
+  - [Apply](https://www.hirebase.org/company/corelation-inc/jobs/software-documentation-engineer-b6e667d3)
 
-- **Teradyne – Software Engineer, New College Graduate** 💼🎓⚙️  
-  **Location:** Agoura Hills, CA, United States (🏙️)  
-  **Stack:** C/C++, C#, Java, automation tooling  
-  **Comp (listed):** ~US$73,100–$110,000  
-  **Why it’s interesting:** A clearly labeled **new college graduate** role working on test and automation systems that sit close to hardware – great if you like the idea of touching the physical world.  
-  - [Apply](https://www.hirebase.org/company/teradyne/jobs/software-engineer-new-college-graduate-teradyne-agoura-hills-ca-ca5dd7d9)
+- **Nokia – C++ Software Engineer (5G R&D) 💼🎓⚙️🏙️**  
+  See Top 5 – worth a second look if you enjoy performance and telecom.  
+  - [Apply](https://www.hirebase.org/company/nokia-global/jobs/c-software-engineer-2769e8a8)
 
-- **National Fuel Gas Company – AI Software Developer Intern** 💼🎓📊  
-  **Location:** Cranberry Township, PA; Houston, TX, United States (🏙️)  
-  **Stack:** Python, C#, JavaScript, SQL Server, Microsoft Power Platform, Copilot‑style tooling  
-  **Comp (listed):** Not listed  
-  **Why it’s interesting:** A very practical way to get into **enterprise AI enablement** – wiring together LLMs, internal tools, and data sources.  
-  - [Apply](https://www.hirebase.org/company/national-fuel-gas-company/jobs/ai-software-developer-intern-6eca0f62)
+- **Ford – Software Engineer, Ford Pro Tech 💼🎓💻⚙️🌍**  
+  Also in Top 5 – included here because cloud‑native + automotive is a very attractive long‑term story for early‑career engineers.  
+  - [Apply](https://www.hirebase.org/company/ford/jobs/software-engineer-ford-pro-tech-fbef38f2)
 
-- **Wing – Backend Software Engineering Intern (Summer 2026)** 💼🎓⚙️  
-  **Location:** Palo Alto, CA, United States (🏙️)  
-  **Stack:** C++, gRPC, Spanner  
-  **Comp (listed):** ~US$122,000–$128,000 (annualized)  
-  **Why it’s interesting:** Cutting‑edge **autonomous delivery** work with real distributed systems challenges baked in.  
-  - [Apply](https://www.hirebase.org/company/wing/jobs/backend-software-engineering-intern-summer-2026-674a04f6)
+- **Stadium – Software Engineer, Fresher (Multiple India Locations) 💼🎓💻🌍**  
+  Multiple postings across Indian states (Delhi, Haryana, Madhya Pradesh, Rajasthan, Uttarakhand) with the same fresher program. Strong option if you want a **remote‑first, product‑oriented** start.  
+  - [Apply](https://www.hirebase.org/company/stadium/jobs/software-engineer-fresher-graduating-batch-2026-or-2027-719a7968)
 
-- **Ciena – Intern, Software Developer** 💼🎓💻🌍  
-  **Location:** Remote across Brazil, Argentina, Mexico (🌍)  
-  **Stack:** Java, Spring, SQL, Angular, Neo4j, REST APIs  
-  **Comp (listed):** Not listed  
-  **Why it’s interesting:** Distributed, remote‑friendly intern role with a very “real” enterprise stack – ideal if you’re in LATAM and want international exposure.  
-  - [Apply](https://www.hirebase.org/company/ciena/jobs/intern-software-developer-020c9c3c)
+- **RELX – Software Engineer II 💼🎓💻🏙️**  
+  **Location:** Raleigh, NC, United States (🏙️ hybrid / telecommute)  
+  **Stack:** Java, Angular, SQL, modern web application development  
+  **Comp (listed):** ~US$71,500–$119,400  
+  **Why it’s interesting:** A junior/associate‑level role building **data‑heavy SaaS** for an established global company. Solid training ground if you want a long runway in enterprise web engineering.  
+  - [Apply](https://www.hirebase.org/company/relx/jobs/software-engineer-ii-14ed2048)
 
-- **Arcadis – Junior Software Engineer** 💼🎓💻  
-  **Location:** United States (🏙️ / hybrid)  
-  **Stack:** C#, .NET, Angular, React, SQL Server  
-  **Comp (listed):** ~US$49,390–$79,023  
-  **Why it’s interesting:** A grounded **junior full‑stack** role with clear pathways into mid‑level backend or front‑end specialization.  
-  - [Apply](https://www.hirebase.org/company/arcadis/jobs/junior-software-engineer-b6977896)
+- **Silvus Technologies – Web Interface Software Engineer 💼🎓💻🏙️**  
+  **Location:** Los Angeles, CA, United States (🏙️ hybrid)  
+  **Stack:** JavaScript, HTML, Python backend, C, UI test automation  
+  **Comp (listed):** ~US$86,540–$114,000  
+  **Why it’s interesting:** You’re building web interfaces for **MANET radios and advanced communications gear** – a nice blend of UI work with genuinely hardcore underlying hardware.  
+  - [Apply](https://www.hirebase.org/company/silvus-technologies/jobs/web-interface-software-engineer-92c9e7f5)
 
-- **Google – Software Engineer III, Database Internals (AlloyDB)** 💼🎓⚙️📊  
-  **Location:** Sunnyvale, CA, United States (🏙️)  
-  **Stack:** C++, Go, Java, PostgreSQL, MySQL  
-  **Comp (listed):** ~US$141,000–$202,000  
-  **Why it’s interesting:** A big‑tech role leaning heavily into **databases and storage internals**. Ambitious for new grads, but a great target if you’ve gone deep on systems or database projects.  
-  - [Apply](https://www.hirebase.org/company/google/jobs/software-engineer-iii-database-internals-alloydb-google-cloud-97203f41)
-
-- **Graphcore – Software Engineering Intern (Drivers)** 💼🎓⚙️  
-  **Location:** Cambridge, UK (🏙️)  
-  **Stack:** C/C++, Python, Git, Jenkins  
-  **Comp (listed):** Not listed  
-  **Why it’s interesting:** Hands‑on work with **AI hardware and low‑level drivers**, for folks who enjoy the metal‑adjacent side of ML.  
-  - [Apply](https://www.hirebase.org/company/graphcore/jobs/copy-of-2026-software-engineering-intern-drivers-aebfa644)
-
-- **Cypress Creek Renewables – Software Engineering Intern** 💼🎓💻🌍  
-  **Location:** Durham, NC; DC; NYC; San Francisco, CA (🏙️)  
-  **Stack:** Python, SQL, Docker, Kubernetes, AWS/Azure/GCP, CI/CD, DevOps  
-  **Comp (listed):** ~US$50,000 (annualized)  
-  **Why it’s interesting:** Energy + software, with a legitimately modern stack. Good fit if you care about climate and infra.  
-  - [Apply](https://www.hirebase.org/company/cypress-creek-renewables/jobs/software-engineering-intern-4c08d48a)
-
-- **Apex Fintech Solutions – Software Engineering Intern (Margins)** 💼🎓💻📊  
-  **Location:** Chicago, IL, United States (🏙️)  
-  **Stack:** Java, PostgreSQL, SQL, gRPC, REST APIs  
-  **Comp (listed):** Stipend noted as “50” in the source band (double‑check on the Hirebase page for current details)  
-  **Why it’s interesting:** A narrow but important piece of **fintech plumbing** – great for people who like data integrity and transaction‑heavy systems.  
-  - [Apply](https://www.hirebase.org/company/apex-fintech-solutions/jobs/software-engineering-intern-margins-d52e49c8)
-
-- **Sony Pictures Imageworks – Associate Software Engineer** 💼🎓⚙️  
-  **Location:** Vancouver, BC, Canada (🏙️)  
-  **Stack:** Linux, Python  
-  **Comp (listed):** ~CA$62,000–$68,600  
-  **Why it’s interesting:** A rare junior role in **film/VFX tooling**, giving you exposure to production‑grade pipelines and large render farms.  
-  - [Apply](https://www.hirebase.org/company/sony-pictures-imageworks/jobs/associate-software-engineer-f33106a9)
-
-- **Morningstar – Associate Software Engineer, Credit Tech** 💼🎓📊  
-  **Location:** Chicago, IL, United States (🏙️)  
-  **Stack:** Python, Vue.js, SQL/NoSQL databases, AWS, AI‑assisted tooling  
-  **Comp (listed):** ~US$70,825–$120,425  
-  **Why it’s interesting:** Solid **fintech + data** role with a modern tooling story and lots of room to specialize in data‑heavy backend or platform work.  
-  - [Apply](https://www.hirebase.org/company/morningstar/jobs/associate-software-engineer-credit-tech-82f6208d)
-
-- **WEX – Intern, Software Engineer** 💼🎓📊🌍  
-  **Location:** US – Remote (🌍)  
-  **Stack:** Python, Java, Go, SQL, AWS/Azure/GCP, data warehouses, ELT, AI/ML  
-  **Comp (listed):** Not listed  
-  **Why it’s interesting:** A chance to touch **data platforms and ML‑adjacent systems** in a payments context, without needing a graduate degree in ML.  
-  - [Apply](https://www.hirebase.org/company/wex/jobs/intern-software-engineer-62ae465f)
-
-- **The Walt Disney Company – Software Engineering Intern (Summer 2026)** 💼🎓💻  
-  **Location:** Lake Buena Vista, FL, United States (🏙️)  
-  **Stack:** Java, Node, React, Angular  
-  **Comp (listed):** ~US$84,000 (annualized)  
-  **Why it’s interesting:** Consumer‑scale systems plus the “you actually get to tell people you work on Disney software” factor.  
-  - [Apply](https://www.hirebase.org/company/the-walt-disney-company/jobs/software-engineering-intern-summer-2026-491ead7a)
-
-- **Betfair Romania Development – Associate Software Engineer (Flutter UKI, Hybrid)** 💼🎓💻  
-  **Location:** Cluj‑Napoca, Romania (🏙️)  
-  **Stack:** Java, React, Redux, Kafka, AWS, HTML/CSS  
-  **Comp (listed):** Not listed  
-  **Why it’s interesting:** High‑traffic betting platform with a very modern web/backend stack, and a clear **Associate** entry point.  
-  - [Apply](https://www.hirebase.org/company/betfair-romania-development/jobs/associate-software-engineer-flutter-uki-hybrid-d8491f76)
-
-- **eClinicalWorks – Intern, Software Engineer** 💼🎓💻  
-  **Location:** Westborough, MA, United States (🏙️)  
-  **Stack:** Java, Python, Angular, Spring, SQL Server  
-  **Comp (listed):** ~US$46,000–$50,000  
-  **Why it’s interesting:** Classic enterprise health‑tech stack with lots of room to practice **API design, testing, and basic architecture**.  
-  - [Apply](https://www.hirebase.org/company/eclinicalworks/jobs/intern-software-engineer-dd6c2a75)
-
-- **Innovative Defense Technologies (IDT) – Associate Software Engineer** 💼🎓⚙️  
-  **Location:** Arlington, VA; Remote, NJ, United States (🏙️ / 🌍 hybrid)  
-  **Stack:** Java, C/C++, Python, Postgres, Kafka, AWS/Azure/GCP, distributed systems tooling  
-  **Comp (listed):** ~US$72,000–$114,450  
-  **Why it’s interesting:** Strong early‑career role in **defense / mission‑critical systems**, with plenty of exposure to distributed systems and performance work.  
-  - [Apply](https://www.hirebase.org/company/innovative-defense-technologies-idt/jobs/associate-software-engineer-506d6eab)
-
-- **Proofpoint – Software Engineer Intern** 💼🎓💻  
-  **Location:** Multiple US states (East + South) (🏙️)  
-  **Stack:** Java, JavaScript, Python, SQL, Git  
-  **Comp (listed):** Not listed  
-  **Why it’s interesting:** Security‑flavored intern role with a straightforward stack – good fit if you’re curious about **email/security products** but want to stay in generalist SWE land.  
-  - [Apply](https://www.hirebase.org/company/proofpoint/jobs/software-engineer-intern-2944a37d)
-
-- **Black Drop Biodrucker – Software Developer, Bioprinting Systems** 💼🎓⚙️  
-  **Location:** Darmstadt, Germany (🏙️)  
-  **Stack:** C/C++, Java, JavaScript, networking (LAN, OPC‑UA)  
-  **Comp (listed):** ~€40,000–€60,000  
-  **Why it’s interesting:** Wildly specific domain – **bioprinting systems** – with a very classic embedded‑plus‑networking stack underneath. Great if you want a story that stands out in interviews.  
-  - [Apply](https://www.hirebase.org/company/black-drop-biodrucker/jobs/software-developer-m-w-d-vernetzte-bioprinting-systeme-e0132c66)
-
-- **Sift – Software Engineering Intern** 💼🎓💻📊  
-  **Location:** San Francisco, CA; Seattle, WA, United States (🏙️)  
-  **Stack:** Java, JavaScript/TypeScript, React, Python, Terraform, Git/GitHub  
-  **Comp (listed):** Not listed  
-  **Why it’s interesting:** Mature **trust & safety** product with modern infra, in a role where you’re close to both data and UI.  
-  - [Apply](https://www.hirebase.org/company/sift/jobs/software-engineering-intern-77c1d28b)
-
-- **Mastercard – Software Engineering Intern (Summer 2026, Singapore)** 💼🎓📊  
-  **Location:** Singapore (🏙️)  
-  **Stack:** Java, C#, JavaScript, Python, SQL/NoSQL, modern deployment + git tooling  
-  **Comp (listed):** Not listed  
-  **Why it’s interesting:** A global‑scale payments company with a clear, structured intern program – great if you want **fintech + international experience** in one move.  
-  - [Apply](https://www.hirebase.org/company/mastercard/jobs/software-engineering-intern-summer-2026-singapore-7c34ffe9)
+- **Coinbase – Software Engineer (additional listing) 💼🎓💻⚙️🌍**  
+  Same general team and leveling, separate posting in the dataset. Good reference for understanding how Coinbase describes early‑career expectations around testing, ownership, and reliability.  
+  - [Apply](https://www.hirebase.org/company/coinbase/jobs/software-engineer-5686082d)
 
 > Note: This section is intentionally **curated**, not exhaustive. The point is to surface a handful of roles that are clearly new‑grad‑friendly (or adjacent for strong 0–2 YOE candidates) and representative of the broader slice, not to dump every posting.
 
