@@ -1,65 +1,54 @@
 # New Grad SWE Roles (Updated Weekly)
-
 <img src="https://www.hirebase.org/lovable-uploads/624ca5ec-343e-4365-a6a7-c3217123248b.png" alt="Hirebase" width="220" />
 
-A living, human‑curated snapshot of **Software Engineer (New Grad / Early Career)** roles from high‑signal teams.
+A living, human‑curated snapshot of **Software Engineer (New Grad)** roles from high‑signal teams.
 
 If you’re a student, recent grad, or early‑career engineer, this is meant to be your once‑or‑twice‑a‑week scan of “what actually looks good” without doom‑scrolling ten different job boards.
 
 All roles are surfaced through **[Hirebase](https://www.hirebase.org/)**, which keeps the underlying feed fresh and searchable.
 
-> Snapshot window: roughly the **last 14 days** of new‑grad / early‑career SWE postings, filtered to ~0–2 years of experience.
+> Snapshot window: roughly the **last 14 days** of new‑grad / early‑career SWE postings.
 
 ---
 
 ## 📊 Quick Glance
 
-### 🧰 Tech Stack Pulse (Last ~14 Days, 0–2 YOE SWE Slice)
+### 🧰 Tech Stack Pulse (Last ~14 Days)
 
-Based on ~57 recent SWE‑ish roles filtered to 0–2 years of experience in this run:
+Based on ~500 SWE‑ish, 0–2 YOE roles in the last two weeks, this is the rough shape of what stacks actually show up:
 
-| 🔧 Tech | How Often It Shows Up* |
+| 🔧 Tech | Approx. share of new‑grad SWE postings |
 | --- | --- |
-| Python | ████████████ ░░ (~22) |
-| TypeScript | ██████ ░░ (~12) |
-| JavaScript | █████ ░░ (~10) |
-| React | ████ ░░ (~9) |
-| Kubernetes | ████ ░░ (~8) |
-| AWS | ████ ░░ (~8) |
-| C++ | ███ ░░ (~6) |
-| SQL | ███ ░░ (~6) |
-| Java | ██ ░░ (~5) |
-| C | ██ ░░ (~4) |
-| Git | ██ ░░ (~4) |
-| CSS | ██ ░░ (~4) |
+| JavaScript / TypeScript | ███░░░░░░░░ (~7%) |
+| Cloud (AWS / Azure / GCP) | ██░░░░░░░░░ (~6%) |
+| Python | ██░░░░░░░░░ (~6%) |
+| Java | ██░░░░░░░░░ (~5%) |
+| C++ / C | █░░░░░░░░░░ (~4%) |
+| Kubernetes / Docker | █░░░░░░░░░░ (~3%) |
+| Git | ░░░░░░░░░░ (~2%) |
+| Go | ░░░░░░░░░░ (~1%) |
+| SQL | ░░░░░░░░░░ (~1%) |
+| C# | ░░░░░░░░░░ (~1%) |
 
-\*Roughly: Python stays clearly ahead, with TypeScript/JavaScript, React, and Kubernetes/AWS showing up together as the default “modern product + cloud” stack for early‑career roles in this slice.
+Big picture:
 
-Takeaways:
-
-- **Python** is still the safest anchor skill; pairing it with a front‑end stack like **React/TypeScript** keeps you aligned with what hiring managers are actually posting.
-- Cloud‑native tooling (Kubernetes, AWS) is no longer “just for seniors” – it shows up regularly even in junior postings, especially around platform and data‑adjacent teams.
-- A very reasonable “new‑grad portfolio” is:
-  - One **Python project** that talks to a database and some cloud services, plus
-  - One **React or TypeScript** project that looks and feels like a real product.
+- The web stack is still everywhere: **JavaScript/TypeScript + a front‑end framework** shows up in a huge chunk of roles, even at infra‑heavy companies.
+- **Python + cloud** is now table‑stakes for anything AI, data, or ML‑adjacent.
+- Systems‑ish stacks (**C/C++/Go**, containers, Kubernetes) are very alive, especially in infra, embedded, and tooling teams.
+- If you’re building a portfolio, one bet on "web + product" and one on "systems + data/infra" still covers most of what hiring managers actually post.
 
 ---
 
-### 💸 Rough Comp Snapshot (New‑Grad‑Friendly SWE)
+### 💸 Rough Comp by Region (New‑Grad‑Friendly SWE)
 
-Where salary ranges are actually listed in this 14‑day slice, you see clusters like:
+Pulled from roles with explicit salary bands in the current 14‑day slice (USD only, obvious outliers removed):
 
-| 🌍 Region | Typical Listed Range* |
-| --- | --- |
-| US (major hubs) | **~$120,000–$185,000+** total comp bands show up a lot (average in this slice is around **$139,458**) |
-| Canada | **roughly CA$90,000–CA$140,000** for the stronger new‑grad postings |
-| Remote‑labeled roles | **often in the $110,000–$180,000+ band**, with big variance by company (slice average around **$144,100**) |
-| Europe | **~€35,000–€70,000 equivalent**, with this slice averaging around **€47,500** |
-| Other / mixed regions | **~$35,000–$110,000 equivalent**, depending heavily on country and currency (slice average just over **$58,833**) |
+| 🌍 Region | Typical band (base/TC) | Notes |
+| --- | --- | --- |
+| US / Canada | ~$120k–$190k | Median mid‑$140k across early‑career SWE roles with bands. Big‑tech and top fintech stretch higher. |
+| Europe / UK | ~£70k–£90k equivalent | Fewer roles list full comp in this slice; bands cluster around solid but not Bay Area‑level numbers. |
 
-> \*These are aggregates of listed bands, not offers. Treat them as “comfortable ballparks”, not promises.
-
-Outside those buckets, ranges vary a lot by country and currency, but the pattern is consistent: solid base comp plus benefits and learning opportunities that matter more than squeezing out the last 5% of salary in your first role.
+Treat this as a **weather report, not a contract**. Individual offers will swing a lot by city, equity, and company stage.
 
 ---
 
@@ -81,165 +70,190 @@ You’ll see these sprinkled into the cards below so you can skim quickly.
 
 ---
 
-## ⭐ Top 5 Picks (Hand‑Picked from the Last ~14 Days, 0–2 YOE)
+## ⭐ Top 5 Picks (Last ~14 Days)
 
-Five roles that look especially strong across **mentorship, impact, clarity of level, and signal**.
+Five roles that look especially strong right now across mentorship, impact, and signal.
 
 > All application links route through Hirebase job pages, using the company and job slugs from the dataset.
 
----
+### 1. Hewlett Packard Enterprise – SW Engineering (Systems) - Software Engineer I - Embedded System 💼🎓⚙️
 
-### 1. Quora – Software Engineer New Grad 2025-2026 - Data Infrastructure, Quora (Remote) 💼🎓🌍📊⚙️💻
-
-- **Location:** United States (🌍 remote)  
-- **Stack:** Kafka, Iceberg, Trino, Spark, Airflow, Python  
-- **Comp (listed):** ~USD 97,000–139,000  
-- **Why it stands out:** A true **new‑grad data infrastructure seat** where you’re working on the pipelines that power search, recommendations, and metrics across the whole product. If you like the idea of owning critical data systems early in your career – with modern tooling like Kafka, Spark, and Airflow – this is about as high‑leverage as it gets for a first role.
-- **Apply:** [Apply](https://www.hirebase.org/company/quora/jobs/software-engineer-new-grad-2025-2026-data-infrastructure-quora-remote-9b839bfc)
+- **Location:** Sunnyvale, California, United States (🏙️)
+- **Stack:** Embedded C/C++, systems programming, low‑level Linux
+- **Comp (listed):** ~$81,700–$165,800 base.
+- **Why it stands out:** A rare **true embedded systems role** that’s still new‑grad friendly. You get to work close to hardware, in a team that actually expects you to be learning, not already an expert in every microcontroller on day one. If you’ve done operating systems, comp arch, or any hobby electronics, this is the sort of job that lets you turn that into a career.
+- **Apply:** [Apply](https://www.hirebase.org/company/hewlett-packard-enterprise/jobs/sw-engineering-systems-software-engineer-i-embedded-system-8c95c936)
 
 ---
 
-### 2. The New York Times – Software Engineer, Publishing Technology 💼🎓🏙️💻
+### 2. PayPal – Software Engineer, Fullstack 💼🎓💻
 
-- **Location:** New York, New York, United States (🏙️ hybrid / onsite)  
-- **Stack:** TypeScript, Node.js, JavaScript, SQL, NoSQL, GitHub Copilot, React.js, AWS  
-- **Comp (listed):** ~USD 110,000–130,000  
-- **Why it stands out:** You’re building **publishing and content systems** for a newsroom that cares deeply about craft. It’s a nice blend of TypeScript, Node, and cloud infra (AWS/GCP, Terraform, CI/CD) with the kind of engineering culture that values reliability and maintainability over throwaway hacks.
-- **Apply:** [Apply](https://www.hirebase.org/company/the-new-york-times/jobs/software-engineer-publishing-technology-9df072ae)
+- **Location:** San Jose, California, United States (🏙️)
+- **Stack:** JavaScript, HTML/CSS, React, Angular, Vue
+- **Comp (listed):** ~$116,500–$173,250 base.
+- **Why it stands out:** Classic **product‑facing full‑stack** work at serious scale. The role is scoped for engineers in the **1–2 YOE** range, and the stack is exactly what you’d expect from a modern fintech front‑end: strong JS/TypeScript, a major framework, and plenty of real‑world UI complexity. Good fit if you like shipping things users can actually see and touch.
+- **Apply:** [Apply](https://www.hirebase.org/company/paypal/jobs/software-engineer-fullstack-61e18022)
 
 ---
 
-### 3. Atom Computing – Quantum Error Correction Software Engineer 💼🎓🏙️💻
+### 3. Ultra Electronics Group – Graduate Software Engineer 💼🎓⚙️
 
-- **Location:** Berkeley, California, United States (🏙️ hybrid / onsite)  
-- **Stack:** Python, Rust, C, C++, Git  
-- **Comp (listed):** ~USD 155,000–185,000  
-- **Why it stands out:** If you’re the person who actually enjoyed quantum or advanced physics classes, this is a rare chance to work on **neutral‑atom quantum computers** as an early‑career engineer. You’ll be translating research into production code in Python/C++/Rust while sitting next to folks who live and breathe quantum information.
+- **Location:** Weymouth, Dorset, United Kingdom (🏙️)
+- **Stack:** C++, Java, Python
+- **Comp:** Not listed; typical UK grad‑engineer band.
+- **Why it stands out:** A **structured graduate program** in a domain (defence, sensors, complex systems) where software actually moves physical things. If you like the idea of writing code that has to work in the real world – not just another dashboard – this is a solid way to get into that ecosystem with mentors around you.
+- **Apply:** [Apply](https://www.hirebase.org/company/ultra-electronics-group/jobs/graduate-software-engineer-103ec32a)
+
+---
+
+### 4. Atom Computing – Quantum Error Correction Software Engineer 💼🎓📊⚙️
+
+- **Location:** Berkeley, California, United States (🏙️)
+- **Stack:** Python, Rust, C/C++, Git, numerical methods
+- **Comp (listed):** ~$155,000–$185,000 base.
+- **Why it stands out:** This is about as **front‑row‑seat to the future** as early‑career roles get. It’s explicitly open to 0–2 YOE engineers, but you’re working on quantum error correction and high‑reliability systems. If you’ve touched research, scientific computing, or heavy math/CS electives and want something beyond “CRUD app but with AI,” this is a standout.
 - **Apply:** [Apply](https://www.hirebase.org/company/atom-computing/jobs/quantum-error-correction-software-engineer-be70046d)
 
 ---
 
-### 4. Visa – Graduate Software Engineer 💼🎓🏙️💻
+### 5. WEX – Junior Software Development Engineer (AI Infrastructure) 💼🎓📊⚙️🌍
 
-- **Location:** Auckland, Auckland, New Zealand (🏙️ hybrid / onsite)  
-- **Stack:** .NET, SQL, Java, C/C++, C#, Python, JavaScript, TypeScript  
-- **Comp (listed):** Not listed  
-- **Why it stands out:** A globally recognized payments company with a **structured graduate program** across stacks (.NET, Java, Python, JavaScript, SQL). It’s a strong option if you want breadth early on while working on systems that move real money for merchants and cardholders around the world.
-- **Apply:** [Apply](https://www.hirebase.org/company/visa/jobs/graduate-software-engineer-6b492443)
-
----
-
-### 5. Cloudflare – Frontend Software Engineer - Cloudforce One 💼🎓🏙️⚙️💻
-
-- **Location:** London, England, United Kingdom (🏙️ hybrid / onsite)  
-- **Stack:** TypeScript, React, HTML, CSS, Cloudflare developer platform, Terraform, Kubernetes, Golang  
-- **Comp (listed):** Not listed  
-- **Why it stands out:** Security‑flavored front‑end work on top of **Cloudflare’s edge platform**, focused on Cloudforce One. You’re building dashboards and tools that sit directly in front of security analysts, using TypeScript/React plus modern infra like Kubernetes and Terraform.
-- **Apply:** [Apply](https://www.hirebase.org/company/cloudflare/jobs/frontend-software-engineer-cloudforce-one-9d90328b)
+- **Location:** United States (Remote) (🌍)
+- **Stack:** Java/Python/C++/Golang, AWS & Azure, Docker, Kubernetes, CI/CD, observability tooling
+- **Comp (listed):** ~$75,200–$95,300 base.
+- **Why it stands out:** A genuinely **junior‑scoped role on an AI infrastructure team**. You’re not just calling APIs; you’re helping keep the ML stack running in production – think clusters, containers, monitoring, and deployment. Great if you like the glue between ML, cloud, and “how does this actually scale?”
+- **Apply:** [Apply](https://www.hirebase.org/company/wex/jobs/junior-software-development-engineer-ad51192b)
 
 ---
 
 ## 🔦 Weekly Spotlight
 
-### “Early‑Career Work on Real Systems, Not Toy Projects”
+### "Early‑Career Roles at the Edges of the Map"
 
-This slice has a nice theme: a lot of new‑grad‑friendly roles that plug you straight into **real production systems**, not side projects. Think data infrastructure at Quora, publishing pipelines at The New York Times, quantum error correction at Atom Computing, and global payments plumbing at Visa.
+Once you filter the firehose down to **0–2 YOE, SWE‑ish titles**, a pattern emerges: the most interesting roles aren’t always the loudest ones. You still see the big names – Apple, Google, Meta – but a surprising amount of opportunity is hiding in **specialized teams and non‑obvious locations**.
 
-A few patterns worth calibrating to:
+On the systems side, there’s a clear cluster around **embedded and infra**: roles like HPE’s embedded SWE in Sunnyvale and Atom Computing’s quantum error‑correction engineer in Berkeley are betting that you care about how bits move through real hardware. They read more like “grad‑friendly research lab meets production team” than boilerplate entry‑level postings.
 
-- Even at the entry level, teams expect you to be comfortable with **version control, code reviews, basic testing, and a bit of cloud**. None of these postings are looking for someone to sit quietly and write scripts in a corner.
-- The most interesting roles tie directly into a clear **product surface area**: recommendations and search, editorial workflows, low‑latency trading of packets or payments, or customer‑facing dashboards. When you read a posting, look for that clarity.
-- There’s a quiet expectation that you have **one or two “spikes”** – maybe data/platform (Kafka, Spark, Airflow), maybe front‑end (React/TypeScript), maybe embedded/edge (C++/Rust/Linux). Breadth is still welcome, but a couple of deep bets make it easier for a team to see where you fit.
+On the product side, full‑stack and front‑end roles keep leaning hard into **TypeScript + cloud**. Teams like PayPal’s consumer engineering group and a handful of fintechs and SaaS platforms are explicit about wanting early‑career engineers who can own a slice of the UI and work comfortably across APIs, state management, and tests.
 
-If your portfolio doesn’t yet look like the environments these teams describe, aim for two concrete projects over the next few months:
-
-1. A small service that ships with real auth, tests, and logging/metrics.
-2. A front‑end or CLI that forces you to think through UX, failure states, and “would I actually use this?”.
-
-Being able to tell those stories clearly in an interview is often what separates “promising resume” from “we should bring them back for loops.”
+The other quiet story in this slice is geography. There are real new‑grad‑friendly roles in **Ireland, the UK, continental Europe, India, and LATAM**, often in hybrid or remote‑first setups. If you’re flexible on location, you can trade a bit of brand prestige for a team that will actually let you ship, learn, and touch modern stacks every week.
 
 ---
 
-## 🎒 Honorable Mentions (More Roles Worth a Serious Look)
+### Honorable Mentions
 
-A curated set from the same 0–2 YOE, 14‑day slice. These aren’t exhaustive – they’re “this is actually worth opening in a tab and reading properly.”
+A wider set of ~25 roles that are clearly early‑career friendly and expand the mix of stacks, regions, and company sizes.
 
-- **Cox Enterprises – Software Engineer I 💼🎓🏙️💻**  \n  **Location:** Carmel, Indiana, United States (🏙️ hybrid / onsite)  \n  **Stack:** GitHub Copilot, Claude, Cursor  \n  **Why it’s interesting:** Early‑career SWE I role experimenting with AI‑assisted tooling (Copilot, Claude, Cursor) on top of a broader IT environment – good if you want to lean into modern dev workflows.  \n  - [Apply](https://www.hirebase.org/company/cox-enterprises/jobs/software-engineer-i-2c633a5b)
+- **Vets Hired – Jr. Software Developer** 💼🎓💻 · Alexandria, Virginia, United States (🏙️)
+  - Early‑career generalist role with room to grow into a broader engineering toolkit.
+  - [Apply](https://www.hirebase.org/company/vets-hired/jobs/jr-software-developer-f4abc863)
 
-- **Xpansiv – Software Engineer I 💼🎓🏙️💻**  \n  **Location:** Sydney, New South Wales, Australia (🏙️ hybrid / onsite)  \n  **Stack:** TypeScript, JavaScript, REST API, browser-based GUIs, Rust, C++  \n  **Why it’s interesting:** SWE I in a markets/energy context, mixing TypeScript front‑ends with performance‑oriented languages like Rust/C++ – fun if you enjoy both UX and systems.  \n  - [Apply](https://www.hirebase.org/company/xpansiv/jobs/software-engineer-i-e9d151d4)
+- **Addepar – Backend Software Engineer – Portfolio Data Workflows** 💼🎓📊 · Musselburgh / Edinburgh area, Scotland, United Kingdom (🏙️)
+  - Fintech‑ish backend work on portfolio and data pipelines: **Java, SQL, Elasticsearch, AWS, JavaScript**.
+  - [Apply](https://www.hirebase.org/company/addepar/jobs/backend-software-engineer-portfolio-data-workflows-ae924121)
 
-- **Menlo Security Inc. – Senior Software Engineer I 💼🎓🌍💻**  \n  **Location:** Israel (🌍 remote)  \n  **Stack:** C#, .NET, .NET Core, Docker, Cloud environments (GCP/AWS), Kubernetes, REST APIs, Microservices  \n  **Why it’s interesting:** Clear early‑career responsibilities, modern tooling, and a stack that lines up well with a first or second SWE role.  \n  - [Apply](https://www.hirebase.org/company/menlo-security-inc/jobs/senior-software-engineer-i-c611962c)
+- **Standex International – Junior Software Engineer** 💼🎓💻 · Summerville, South Carolina, United States (🏙️)
+  - Mobile‑leaning role mixing **Kotlin/Java Android** with backend **Node.js/Python** – nice path into mobile + backend.
+  - [Apply](https://www.hirebase.org/company/standex-international/jobs/junior-software-engineer-97243caa)
 
-- **Baxter International Inc. – Embedded Software Engineer I 💼🎓🏙️⚙️💻**  \n  **Location:** Raleigh, North Carolina, United States (🏙️ hybrid / onsite)  \n  **Stack:** Qt, C++, object-oriented programming  \n  **Why it’s interesting:** Embedded SWE I role on medical devices: modern C++ plus Qt, with real‑world safety constraints and long‑lived products.  \n  - [Apply](https://www.hirebase.org/company/baxter-international-inc/jobs/embedded-software-engineer-i-07af11e1)
+- **Atom Computing – Quantum Error Correction Software Engineer** 💼🎓📊⚙️ · Berkeley, California, United States (🏙️)
+  - Also in the Top 5, but worth calling out again as a rare quantum‑adjacent early‑career opening.
+  - [Apply](https://www.hirebase.org/company/atom-computing/jobs/quantum-error-correction-software-engineer-be70046d)
 
-- **Mews – Software Engineer 💼🎓🏙️💻**  \n  **Location:** Czechia (🏙️ hybrid / onsite)  \n  **Stack:** .NET, React, JavaScript, TypeScript, Azure, SQL, AI-assisted development tools  \n  **Why it’s interesting:** Clear early‑career responsibilities, modern tooling, and a stack that lines up well with a first or second SWE role.  \n  - [Apply](https://www.hirebase.org/company/mews/jobs/software-engineer-d7825624)
+- **Cloudflare – Frontend Software Engineer – Cloudforce One** 💼🎓💻 · London, United Kingdom (🏙️)
+  - Security + threat‑intel flavored front‑end with **TypeScript, React, Terraform, and Cloudflare’s own platform**.
+  - [Apply](https://www.hirebase.org/company/cloudflare/jobs/frontend-software-engineer-cloudforce-one-9d90328b)
 
-- **AJ Bell – Software Engineer 💼🎓🏙️💻**  \n  **Location:** Manchester, England, United Kingdom (🏙️ hybrid / onsite)  \n  **Stack:** Go, gRPC/proto, PostgreSQL, Docker & Kubernetes, TypeScript and Vue, Dart and Flutter  \n  **Why it’s interesting:** Clear early‑career responsibilities, modern tooling, and a stack that lines up well with a first or second SWE role.  \n  - [Apply](https://www.hirebase.org/company/aj-bell/jobs/software-engineer-695cc544)
+- **Alarm.com – Software Engineer II (Full‑stack Android)** 💼🎓💻 · Krakow, Poland (🏙️)
+  - Full‑stack mobile: Android (Kotlin/Java) on the front, **C#/.NET + SQL Server + Kafka** on the back.
+  - [Apply](https://www.hirebase.org/company/alarm-com/jobs/software-engineer-ii-full-stack-android-f3872408)
 
-- **Softtek – Software Engineer 💼🎓🏙️💻**  \n  **Location:** Mexico (🏙️ hybrid / onsite)  \n  **Stack:** nginx, swagger, CI/CD  \n  **Why it’s interesting:** Clear early‑career responsibilities, modern tooling, and a stack that lines up well with a first or second SWE role.  \n  - [Apply](https://www.hirebase.org/company/softtek/jobs/software-engineer-c39f002f)
+- **GoCardless – Software Development Engineer** 💼🎓💻 · Riga, Latvia (🏙️)
+  - Payments‑focused engineering with **Ruby and Python**, explicit junior band and mentoring baked in.
+  - [Apply](https://www.hirebase.org/company/gocardless/jobs/software-development-engineer-06585a7a)
 
-- **Aurora Innovation – Software Engineer 💼🎓🏙️💻**  \n  **Location:** Pittsburgh, Pennsylvania, United States (🏙️ hybrid / onsite)  \n  **Stack:** Linux, C/C++, Python, Deep Learning  \n  **Why it’s interesting:** Self‑driving adjacent work with Linux/C++/Python and deep learning – a nice entry point into robotics‑flavored systems engineering.  \n  - [Apply](https://www.hirebase.org/company/aurora-innovation/jobs/software-engineer-5dcc6e84)
+- **Tanium – Software Engineer II (Front‑end)** 💼🎓💻 · Durham, North Carolina, United States (🏙️)
+  - Enterprise security front‑end with **JavaScript/TypeScript + React/Angular/Vue**, and a wide salary band that rewards growth.
+  - [Apply](https://www.hirebase.org/company/tanium/jobs/software-engineer-ii-25c75952)
 
-- **GoCardless – Software Development Engineer 💼🎓🏙️🧪**  \n  **Location:** Riga, Latvia (🏙️ hybrid / onsite)  \n  **Stack:** Ruby, Python  \n  **Why it’s interesting:** Junior‑friendly SWE in fintech, using Ruby/Python to build payment tooling in a European hub.  \n  - [Apply](https://www.hirebase.org/company/gocardless/jobs/software-development-engineer-06585a7a)
+- **AJ Bell – Software Engineer** 💼🎓💻⚙️ · Manchester, United Kingdom (🏙️)
+  - Modern polyglot stack: **Go, gRPC, PostgreSQL, Kubernetes, TypeScript/Vue, Dart/Flutter** – good if you like moving parts.
+  - [Apply](https://www.hirebase.org/company/aj-bell/jobs/software-engineer-695cc544)
 
-- **Roblox – Software Engineer, Assessments 💼🎓🏙️💻**  \n  **Location:** California, United States (🏙️ hybrid / onsite)  \n  **Stack:** Modern SWE stack (see posting)  \n  **Why it’s interesting:** Assessments touches core game and platform flows, giving you exposure to high‑scale, user‑facing systems where performance and safety matter.  \n  - [Apply](https://www.hirebase.org/company/roblox/jobs/software-engineer-assessments-fc77dda1)
+- **Esri – Java Software Engineer II – ArcGIS Enterprise** 💼🎓📊 · Redlands, California, United States (🏙️)
+  - GIS platform work with **Java + Servlets + SQL + cloud**, sitting at the intersection of maps, data, and infra.
+  - [Apply](https://www.hirebase.org/company/esri/jobs/java-software-engineer-ii-arcgis-enterprise-80111d52)
 
-- **Tanium – Software Engineer II 💼🎓🏙️💻**  \n  **Location:** Durham, North Carolina, United States (🏙️ hybrid / onsite)  \n  **Stack:** JavaScript, TypeScript, CSS, React, Angular, Vue, HTTP API design and development, git  \n  **Why it’s interesting:** Clear early‑career responsibilities, modern tooling, and a stack that lines up well with a first or second SWE role.  \n  - [Apply](https://www.hirebase.org/company/tanium/jobs/software-engineer-ii-25c75952)
+- **Weekday AI – Software Engineer Intern** 💼🎓📊 · Bengaluru, India (🏙️)
+  - AI‑heavy startup environment, generalist stack (**Python, JavaScript, Java, C++**) and lots of surface area to touch as an intern.
+  - [Apply](https://www.hirebase.org/company/weekday-ai/jobs/software-engineer-intern-8cbc5451)
 
-- **Qode – Embedded Software Engineer 💼🎓🏙️⚙️💻**  \n  **Location:** Bengaluru, Karnataka, India (🏙️ hybrid / onsite)  \n  **Stack:** C, C++11 to C++17 or higher, Python, STM32H5 (ARM Cortex-M33, 250 MHz), STM32U5 (ARM Cortex-M33, 160 MHz), STM32F4xx, STM32F103, Cortex M0+, M4, M33 (general)  \n  **Why it’s interesting:** Clear early‑career responsibilities, modern tooling, and a stack that lines up well with a first or second SWE role.  \n  - [Apply](https://www.hirebase.org/company/qode/jobs/embedded-software-engineer-345c441d)
+- **Kong – Software Engineer Intern – Gateway** 💼🎓⚙️ · Shanghai, China (🏙️)
+  - Deep infra + networking: **Rust, Linux, NGINX/OpenResty, LuaJIT, Tokio**. Very solid if you enjoy protocols and performance.
+  - [Apply](https://www.hirebase.org/company/kong/jobs/software-engineer-intern-gateway-db15fa63)
 
-- **PayPal – Software Engineer - Java 💼🎓🏙️💻**  \n  **Location:** San Jose, California, United States (🏙️ hybrid / onsite)  \n  **Stack:** Java, Spring Boot, Micronaut, RESTful web services, Service-Oriented Architecture (SOA)  \n  **Why it’s interesting:** Clear early‑career responsibilities, modern tooling, and a stack that lines up well with a first or second SWE role.  \n  - [Apply](https://www.hirebase.org/company/paypal/jobs/software-engineer-java-e0a26338)
+- **Hyphen Connect – Software Engineer (Solana)** 💼🎓⚙️ · Japan (🌍)
+  - Crypto‑native engineering with **Rust and Solana**, aimed at folks who’ve actually built projects on‑chain.
+  - [Apply](https://www.hirebase.org/company/hyphen-connect-limited/jobs/software-engineer-solana-9aa93192)
 
-- **Kunai – Audio Software Engineer 💼🎓🌍💻**  \n  **Location:** United States (🌍 remote)  \n  **Stack:** Python, C++, SQL, NoSQL  \n  **Why it’s interesting:** Clear early‑career responsibilities, modern tooling, and a stack that lines up well with a first or second SWE role.  \n  - [Apply](https://www.hirebase.org/company/kunai/jobs/audio-software-engineer-cdc9618f)
+- **Hyphen Connect – Software Engineer (EVM)** 💼🎓⚙️ · Taiwan (🌍)
+  - EVM‑chain flavor: **Solidity + Ethereum** with a focus on developer tooling and protocol‑level work.
+  - [Apply](https://www.hirebase.org/company/hyphen-connect-limited/jobs/software-engineer-evm-d486f142)
 
-- **Zone & Co – AI Software Engineer 💼🎓🌍📊🧪**  \n  **Location:** Czechia (🌍 remote)  \n  **Stack:** Python, JavaScript, LLMs, Agents, LangGraph, AutoGen, DSPy, SQL  \n  **Why it’s interesting:** AI‑heavy SWE roles building on top of LLM frameworks like LangGraph/AutoGen/DSPy – great if you want to be hands‑on with agents and tooling.  \n  - [Apply](https://www.hirebase.org/company/zone-co/jobs/ai-software-engineer-44433dc8)
+- **Hyphen Connect – Backend Engineer (DEX / Python / Node.js)** 💼🎓⚙️ · Korea (🌍)
+  - Backend‑heavy DEX work: **Node.js, Python, SQL, Redis**, and performance‑sensitive services.
+  - [Apply](https://www.hirebase.org/company/hyphen-connect-limited/jobs/backend-engineer-dex-python-node-js-4195d9b5)
 
-- **Zone & Co – AI Software Engineer 💼🎓🌍📊🧪**  \n  **Location:** Spain (🌍 remote)  \n  **Stack:** Python, JavaScript, LLMs, agents, frameworks such as LangGraph, AutoGen, or DSPy, relational (SQL) and non-relational databases, cloud platforms (AWS or Azure)  \n  **Why it’s interesting:** AI‑heavy SWE roles building on top of LLM frameworks like LangGraph/AutoGen/DSPy – great if you want to be hands‑on with agents and tooling.  \n  - [Apply](https://www.hirebase.org/company/zone-co/jobs/ai-software-engineer-671566a9)
+- **Qode – Embedded Software Engineer** 💼🎓⚙️ · Bengaluru, India (🏙️)
+  - Embedded C/C++ on STM32‑class hardware, with Python in the toolchain. Great for people who want to stay close to the metal.
+  - [Apply](https://www.hirebase.org/company/qode/jobs/embedded-software-engineer-345c441d)
 
-- **Hitachi – Embedded Software Engineer 💼🎓🏙️⚙️💻**  \n  **Location:** England, United Kingdom (🏙️ hybrid / onsite)  \n  **Stack:** C, Python, Linux, Yocto Project  \n  **Why it’s interesting:** Clear early‑career responsibilities, modern tooling, and a stack that lines up well with a first or second SWE role.  \n  - [Apply](https://www.hirebase.org/company/hitachi/jobs/embedded-software-engineer-a35b05c9)
+- **Zipdev – Full‑Stack Engineer (Backend)** 💼🎓💻🌍 · Brazil (🌍)
+  - Remote‑first engineering with **Ruby, Rails, PostgreSQL, Cosmos DB** – platform‑style backend work with a solid web stack.
+  - [Apply](https://www.hirebase.org/company/zipdev/jobs/full-stack-engineer-backend-807767ce)
 
-- **Priceline – Associate Software Engineer 💼🎓🏙️💻**  \n  **Location:** Mumbai, Maharashtra, India (🏙️ hybrid / onsite)  \n  **Stack:** Swift, Kotlin, Java, Python, Mabl, Sanity, Regression  \n  **Why it’s interesting:** Clear early‑career responsibilities, modern tooling, and a stack that lines up well with a first or second SWE role.  \n  - [Apply](https://www.hirebase.org/company/priceline/jobs/associate-software-engineer-b7d22c13)
+- **Zipdev – Full‑Stack Engineer (Frontend)** 💼🎓💻🌍 · Chile (🌍)
+  - Modern front‑end stack: **TypeScript, React, Vite, Tailwind** – very portfolio‑transferable if you like UI.
+  - [Apply](https://www.hirebase.org/company/zipdev/jobs/full-stack-engineer-frontend-c2e66446)
 
-- **GetYourGuide – Associate Software Engineer 💼🎓🏙️💻**  \n  **Location:** Zurich, Zurich, Switzerland (🏙️ hybrid / onsite)  \n  **Stack:** Kotlin, Java, Scala, Vue.js, TypeScript, CSS/styling frameworks, AWS/GCP, Kubernetes  \n  **Why it’s interesting:** Associate role in a travel marketplace, with Kotlin/Java backends and Vue/TypeScript front‑ends across a modern cloud stack.  \n  - [Apply](https://www.hirebase.org/company/getyourguide/jobs/associate-software-engineer-56ddac7a)
+- **SAP – Student Training & Rotation Program (Software / DevOps)** 💼🎓⚙️ · Budapest, Hungary (🏙️)
+  - Structured rotation across software and DevOps teams; excellent if you’re still figuring out where you fit.
+  - [Apply](https://www.hirebase.org/company/sap/jobs/student-training-and-rotation-program-for-software-devops-engineer-students-cc4676cd)
 
-- **Huge – Salesforce Software Engineer 💼🎓🌍💻**  \n  **Location:** Colombia (🌍 remote)  \n  **Stack:** Salesforce.com, Apex, Lightning Web Components (LWC), DevOp tools (Copado), JavaScript  \n  **Why it’s interesting:** Clear early‑career responsibilities, modern tooling, and a stack that lines up well with a first or second SWE role.  \n  - [Apply](https://www.hirebase.org/company/huge/jobs/salesforce-software-engineer-53bc17eb)
+- **Roblox – Software Engineer, Assessments** 💼🎓💻 · San Mateo, California, United States (🏙️)
+  - Core platform work on assessment systems at a company where the product *is* the engine.
+  - [Apply](https://www.hirebase.org/company/roblox/jobs/software-engineer-assessments-fc77dda1)
 
-- **Alongside – Software Engineer (Angular) 💼🎓🏙️💻**  \n  **Location:** Porto, Portugal (🏙️ hybrid / onsite)  \n  **Stack:** Angular  \n  **Why it’s interesting:** Clear early‑career responsibilities, modern tooling, and a stack that lines up well with a first or second SWE role.  \n  - [Apply](https://www.hirebase.org/company/alongside/jobs/software-engineer-angular-3dc2e2e2)
-
-- **Optasia – Software Engineer, Fintech 💼🎓🏙️💻**  \n  **Location:** Athens, Attica, Greece (🏙️ hybrid / onsite)  \n  **Stack:** Spring, JMS, REST Web Services, Hazelcast, Postgres, Kafka, Elastic, Docker Swarm  \n  **Why it’s interesting:** Clear early‑career responsibilities, modern tooling, and a stack that lines up well with a first or second SWE role.  \n  - [Apply](https://www.hirebase.org/company/optasia/jobs/software-engineer-fintech-3fa90d50)
-
-> Note: This section is intentionally **curated**, not exhaustive. The point is to surface a handful of roles that are clearly new‑grad‑friendly (or adjacent for strong 0–2 YOE candidates) and representative of the broader slice, not to dump every posting.
+There are many more in the underlying dataset; this set is meant to give you a feel for the range of good options, not exhaust the list.
 
 ---
 
 ## 🔍 Find More Roles on Hirebase
 
-This README is a **curated snapshot**. Hirebase has the full firehose, and your filters can be a lot sharper than “new grad SWE”.
+This README is a **curated snapshot**. Hirebase has the full firehose.
 
-If you’re actively searching, a good starting point is:
+If you’re actively searching, start here:
 
-👉 **Explore New Grad SWE‑style roles (US, 0–2 YOE, last 14 days):**  
-<https://www.hirebase.org/search?job_title=Software+Engineer&advanced=true&yoe_min=0&yoe_max=2&date_posted=14&location=United+States&geo_location=[{"city":null,"region":null,"country":"United+States","value":"United+States","label":"United+States","emoji":"🇺🇸"}]>
+👉 **Explore New Grad SWE‑style roles (US, 0–2 YOE, last 14 days):**  <https://www.hirebase.org/search?job_title=Software+Engineer&advanced=true&yoe_min=0&yoe_max=2&date_posted=14&location=United+States&geo_location=[{"city":null,"region":null,"country":"United+States","value":"United+States","label":"United+States","emoji":"🇺🇸"}]>
 
 Want something a bit broader or more experimental?
 
-- Simple keyword search for new grad SWE across regions:  
-  <https://www.hirebase.org/search?q=new+grad+software+engineer>
+- Simple keyword search for new grad SWE across regions:    <https://www.hirebase.org/search?q=new+grad+software+engineer>
 
-From there you can:
-
-- Filter by **tech stack** (Python, Go, React, etc.),
-- Narrow by **location / remote / hybrid**, 
-- Adjust **experience bands** as you grow beyond pure new grad.
+From there you can filter by tech stack, narrow by location/remote, and adjust experience bands as you grow.
 
 ---
 
 ## 🧱 What Is Hirebase?
 
-Most job boards drop you into an endless scroll of half‑finished descriptions and mystery titles. You spend more time reading than actually preparing, and it’s weirdly hard to answer a basic question like: “who is seriously hiring people like me, right now?”
+Most job boards drop you into an endless scroll of half‑finished descriptions and
+mystery titles. You spend more time reading than actually preparing, and it’s weirdly
+hard to answer a basic question like: “who is seriously hiring people like me, right
+now?”  Hirebase tries to push that work closer to the machine. It tracks the broader job
+market, scrapes and understands millions of postings, and then lets you slice by the
+things that actually matter: level, stack, location, compensation ranges, company type.
 
-Hirebase tries to push that work closer to the machine. It tracks the broader job market, scrapes and understands **millions of postings**, and then lets you slice by the things that actually matter: **level, stack, location, compensation ranges, company type**.
-
-For new grads, that means you can spend less energy hunting for “maybe this is junior?” roles and more time on the parts you control: projects, practice, and thoughtful applications.
-
-This repo is just one narrow lens – **New Grad SWE** – so you always have a clean place to start. The rest of the graph lives over on Hirebase.
+For new grads, that means you can spend less energy hunting for “maybe this is junior?”
+roles and more time on the pieces you control: projects, practice, and thoughtful
+applications.  This repo is just one narrow lens – **New Grad SWE** – so you always have
+a clean place to start. The rest of the graph lives over on Hirebase.
